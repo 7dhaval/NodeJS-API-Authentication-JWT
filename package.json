@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-api-authentication-jwt",
+  "version": "1.0.0",
+  "description": "API Authentication Using JWT Token and redis",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7dhaval/NodeJS-API-Authentication-JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7dhaval/NodeJS-API-Authentication-JWT/issues"
+  },
+  "homepage": "https://github.com/7dhaval/NodeJS-API-Authentication-JWT#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0"
+  }
+}
