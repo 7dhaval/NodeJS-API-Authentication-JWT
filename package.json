@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/7dhaval/NodeJS-API-Authentication-JWT#readme",
   "dependencies": {
+    "@hapi/joi": "^17.1.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "http-errors": "^2.0.0",
